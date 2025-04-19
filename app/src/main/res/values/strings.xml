@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Latihan 1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="label_nrp">NRP</string>
+    <string name="label_name">Nama</string>
+    <string name="label_major">Jurusan</string>
+    <string name="label_email">Email</string>
+    <string name="label_address">Alamat</string>
+    <string name="label_gender">Jenis Kelamin</string>
+
+    <string name="hint_nrp">Masukkan NRP</string>
+    <string name="hint_name">Masukkan Nama</string>
+    <string name="hint_major">Masukkan Jurusan</string>
+    <string name="hint_email">Masukkan Email</string>
+    <string name="hint_address">Masukkan Address</string>
+    <string name="hint_gender">Masukkan Jenis Kelamin</string>
+
+    <string name="button_ok">OK</string>
+</resources>
